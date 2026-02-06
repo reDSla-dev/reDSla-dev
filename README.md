@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/WNFDZiX.gif" />
+<img align="right" height="500" src="https://i.imgur.com/WNFDZiX.gif" />
 
 ###
 
@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/reDSla-dev/reDSla-dev/output/snake.svg" alt="Snake animation" />
 
 ###
