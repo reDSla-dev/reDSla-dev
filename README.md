@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi!! My name Intéguer and I'm a Game Developer, from Brasil </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://imgur.com/gallery/anima-ozinha-de-idle-3wxy4um#WNFDZiX"  />
 
 ###
 
